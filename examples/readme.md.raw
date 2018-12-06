@@ -1,14 +1,10 @@
 <h1 align="center">Twitter MD Chrome Extension</h1>
 <p align="center">
-  <img src="./images/icon128.png" width="auto" height="100"/>
+  <img src="https://github.com/RyosukeCla/twitter-md-chrome/blob/master/images/icon128.png?raw=true" width="auto" height="100"/>
 </p>
 
 <h2 align="center">About</h2>
-<p align="center"> Extend Twitter to enable to tweet markdown. </p>
-
-<p align="center">
-  <img src="./images/tmd.gif" width="auto" height="300"/>
-</p>
+- Extend Twitter to enable to tweet markdown.
 
 <h2 align="center">Installation</h2>
 
@@ -27,9 +23,3 @@
   - Display math
 - Syntax highlight
 - Tweet md as png
-
-<h2 align="center">Examples</h2>
-
-- [readme](./examples/readme.md.raw)
-- [syntax highlight](./examples/syntax-highlight.md.raw)
-- [math](./examples/math.md.raw)
