@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">About</h2>
-<p align="center"> Extend Twitter to enable to tweet markdown. </p>
+<p align="center">Extend Twitter to enable to tweet markdown. </p>
 
 <p align="center">
   <img src="./images/tmd.gif" width="auto" height="300"/>
