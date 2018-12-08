@@ -5,11 +5,11 @@
   "static/css/1.chunk.css": "/static/css/1.chunk.css",
   "static/js/1.chunk.js": "/static/js/1.chunk.js",
   "static/js/1.chunk.js.map": "/static/js/1.chunk.js.map",
-  "static/media/katex.min.css": "/static/media/KaTeX_Main-Regular.31ec4506.eot",
+  "static/media/katex.min.css": "/static/media/KaTeX_Main-Regular.d9162dfe.ttf",
   "static/media/all.min.css": "/static/media/fa-solid-900.a8684002.svg",
-  "static/css/1.chunk.css.map": "/static/css/1.chunk.css.map",
   "static/css/content.css.map": "/static/css/content.css.map",
+  "static/css/1.chunk.css.map": "/static/css/1.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.26baebd97e35bafe3a6656899793cec7.js": "/precache-manifest.26baebd97e35bafe3a6656899793cec7.js",
+  "precache-manifest.24433870f8289fc033e13ad1ae2dbd1e.js": "/precache-manifest.24433870f8289fc033e13ad1ae2dbd1e.js",
   "service-worker.js": "/service-worker.js"
 }
