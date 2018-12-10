@@ -12,7 +12,7 @@
 
 <h2 align="center">Installation</h2>
 
-1. [download chrome extension zip](https://github.com/RyosukeCla/twitter-md-chrome/archive/v1.1.1.zip)
+1. [download chrome extension zip](https://github.com/RyosukeCla/twitter-md-chrome/archive/v1.2.0.zip)
 2. unzip it
 3. go to [chrome://extension](chrome://extension)
 4. click `Load Unpackaged Chrome Extension`
@@ -26,6 +26,8 @@
   - Inline math
   - Display math
 - Syntax highlight
+- Custom css
+- Front Matter
 - Tweet md as png
 
 <h2 align="center">Examples</h2>
