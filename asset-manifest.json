@@ -7,9 +7,9 @@
   "static/js/1.chunk.js.map": "/static/js/1.chunk.js.map",
   "static/media/katex.min.css": "/static/media/KaTeX_Main-Regular.d9162dfe.ttf",
   "static/media/all.min.css": "/static/media/fa-solid-900.a8684002.svg",
-  "static/css/app.css.map": "/static/css/app.css.map",
   "static/css/1.chunk.css.map": "/static/css/1.chunk.css.map",
+  "static/css/app.css.map": "/static/css/app.css.map",
   "index.html": "/index.html",
-  "precache-manifest.1a14ae9aa9f806d60b660efd7648cc3a.js": "/precache-manifest.1a14ae9aa9f806d60b660efd7648cc3a.js",
+  "precache-manifest.c40b9d268f9f857f8b332d853639290c.js": "/precache-manifest.c40b9d268f9f857f8b332d853639290c.js",
   "service-worker.js": "/service-worker.js"
 }
